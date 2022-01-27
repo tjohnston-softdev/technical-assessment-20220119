@@ -19,11 +19,3 @@ My attempt at this assessment was made on 19 January 2021. It was converted to m
 This submission is licensed under CC-BY 4.0. You can do whatever you want with it as long as attribution is given. The technical questions included as part of this assessment belong to the company I applied for the position with. This license only covers my answers and I claim no copyright over the assessment material itself. I have decided not to disclose the name of the company for privacy reasons.
 
 ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
-
----
-
-
-
-
-
-
