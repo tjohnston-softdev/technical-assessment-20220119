@@ -42,7 +42,8 @@ public static class LogPatch
     public static void Main(string[] args)
     {
         // Example case.
-        Console.WriteLine(10.0.Log10());
+        double res = 10.0.Log10();
+		Console.WriteLine(res);
     }
 }
 ```
