@@ -42,8 +42,9 @@ public static class LogPatch
     public static void Main(string[] args)
     {
         // Example case.
-        double res = 10.0.Log10();
-		Console.WriteLine(res);
+        double inputValue = 10.0;
+	double outputValue = inputValue.Log10();
+	Console.WriteLine(outputValue);
     }
 }
 ```
